@@ -9,7 +9,7 @@ tags:
 
 ![Availability Badge](https://img.shields.io/badge/Available%20Starting-v1.3-green.svg)![Resource Discovery Support Badge](https://img.shields.io/badge/Support%20for%20Resource%20Discovery-No-red.svg)
 
-You can declare to scrape an Azure Queue via the `BlobStorage` resource type.
+You can declare to scrape an Azure Blob Storage via the `BlobStorage` resource type.
 
 The following fields need to be provided:
 
